@@ -33,6 +33,10 @@ http://img13.imageshack.us/img13/93/66934957.jpg
 
 http://img14.imageshack.us/img14/8830/10808968.jpg
 
+*HP turn red in Minmode when you have low-HP, low-ammo flash; HUD also supports 2 items with charge bars at the same time
+
+http://img840.imageshack.us/img840/6619/40330586.jpg
+
 *Engie HUD, Building - Target ID, Stopwatch-Mode Display + Setup Label
 
 http://img801.imageshack.us/img801/509/71525066.jpg
@@ -48,7 +52,3 @@ http://img72.imageshack.us/img72/8854/48464866.jpg
 *Spy HUD with disuise-status panel
 
 http://img844.imageshack.us/img844/1455/26301530.jpg
-
-*low-ammo flash; HUD also supports 2 items with charge bars at the same time
-
-http://img821.imageshack.us/img821/1204/99592814.jpg
