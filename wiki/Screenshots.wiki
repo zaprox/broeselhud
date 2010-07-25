@@ -1,28 +1,54 @@
 #labels Phase-Design
-Those are screenshots made @ 1680x1050, resized to 1440x900, so some elements may look kinda odd here ;)
+_Those are screenshots made @ 1680x1050, resized to 1440x900, so some elements may look kinda odd here ;)_
 
-http://img827.imageshack.us/i/27694930.jpg/
+*Team Menu
 
-http://img831.imageshack.us/i/72873165.jpg/
+http://img827.imageshack.us/img827/3746/27694930.jpg
 
-http://img818.imageshack.us/i/77236316.jpg/
+*Class Menu
 
-http://img204.imageshack.us/i/35600666.jpg/
+http://img831.imageshack.us/img831/2275/72873165.jpg
 
-http://img709.imageshack.us/i/45101620.jpg/
+Pub (12v12) Scoreboard
 
-http://img818.imageshack.us/i/49469821.jpg/
+http://img818.imageshack.us/img818/5189/77236316.jpg
 
-http://img13.imageshack.us/i/66934957.jpg/
+6v6 Scoreboard
 
-http://img14.imageshack.us/i/10808968.jpg/
+http://img204.imageshack.us/img204/827/35600666.jpg
 
-http://img801.imageshack.us/i/71525066.jpg/
+Demo HUD with Minmode off
 
-http://img821.imageshack.us/i/98680200.jpg/
+http://img709.imageshack.us/img709/9119/45101620.jpg
 
-http://img72.imageshack.us/i/48464866.jpg/
+Tournament Setup Menu, last damage done - Indicator in Minmode off, 100% Medic Charge Bar, Heal-Target ID*
 
-http://img844.imageshack.us/i/26301530.jpg/
+http://img818.imageshack.us/img818/74/49469821.jpg
 
-http://img821.imageshack.us/i/99592814.jpg/
+low HP in Minmode off, Quickswitch Panel
+
+http://img13.imageshack.us/img13/93/66934957.jpg
+
+Damage Indicator and Target IDs in Minmode, HP turn green in Minmode when you're buffed
+
+http://img14.imageshack.us/img14/8830/10808968.jpg
+
+Engie HUD, Building - Target ID, Stopwatch-Mode Display + Setup Label
+
+http://img801.imageshack.us/img801/509/71525066.jpg
+
+Engie Build Menu
+
+http://img821.imageshack.us/img821/937/98680200.jpg
+
+killnotices, CTF-HUD, Spy cloak-bar
+
+http://img72.imageshack.us/img72/8854/48464866.jpg
+
+Spy HUD with disuise-status panel
+
+http://img844.imageshack.us/img844/1455/26301530.jpg
+
+low-ammo flash; HUD also supports 2 items with charge bars at the same time
+
+http://img821.imageshack.us/img821/1204/99592814.jpg
