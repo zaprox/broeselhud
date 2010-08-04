@@ -1,7 +1,42 @@
-==26.07. '10==
-fixed Scoreboard shadow bug
+==04/08/2010 - v1.10==
+HP DISPLAY:
 
-==26.07. '10==
-Damage numbers now use Surface Medium
+	- added an option for a minmode HP display like in m0rehud
 
-fixed Scoreboard bug
+	- changed the warning treshold on colored minmode HP display to 0.48
+
+	- changed the warning red in minmode to a slighty less saturated one
+	
+	- fixed the HP in minmode being grey after a buff
+
+FONT CHANGES:
+
+	- fixed the description text on Stopwatch being cut off
+
+	- changed the font of some scoreboard elements to Surface
+
+	- made the "last damage done" indicator yellow aswell
+
+OTHER CHANGES:
+
+	- edited the Stalemate panel to fit the general style
+	
+	- made the space between death notices slighty smaller
+
+	- increased the maximum deathnotice count to 9
+
+	- made the PLR carts smaller
+
+	- fixed 6v6 scoreboard overlapping with tournament spec panel
+
+	- added a 6v6 side-by-side scoreboard
+
+==26/07/2010 - v1.02==
+
+-fixed Scoreboard shadow bug
+
+==26/07/2010 - v1.01==
+
+-Damage numbers now use Surface Medium
+
+-fixed Scoreboard bug
