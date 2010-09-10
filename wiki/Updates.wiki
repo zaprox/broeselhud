@@ -1,18 +1,5 @@
 ==10/09/2010 - v1.10==
-	- made the round timer smaller - its size is now ~ between the too big old one and m0re's too small one
- 
-	- m0re's minmode HP display is now default and the colored one is the option
-
-	- removed the floating model from the class menu
-
-	- class menu is now more compact
- 
-	- damage numbers now are font size 23 (was 26)
- 
-	- DISABLED (not deleted!) the low-ammo flash
-        
-		-(if you really want it back uncomment the lowAmmoPulse section in scripts/HudAnimations_tf.txt)
- 
+OBJECTIVES:
 	- made the CP HUD smaller (it's now ~ as big as the minmode CP HUD from the default HUD)
  
 	- made the ctf HUD smaller and colored the scores
@@ -20,8 +7,20 @@
 	- made the PLR carts smaller - now for real ;D (messed it up in the last update)
  
 	- added proper support for PL tracks with hills (taller track in the HUD)
+
+	- made the round timer smaller - its size is now ~ between the too big old one and m0re's too small one
+HP/DAMAGE/AMMO DISPLAYS:
+	- m0re's minmode HP display is now default and the colored one is the option
+
+	- damage numbers now are font size 23 (was 26)
  
-	- fixed the KOTH timer
+	- DISABLED (not deleted!) the low-ammo flash
+        
+		-(if you really want it back uncomment the lowAmmoPulse section in scripts/HudAnimations_tf.txt)
+MENUS:
+	- removed the floating model from the class menu
+
+	- class menu is now more compact
 
 	- redesigned the quickswitch menu to fit the general, minimalistic style
 
@@ -30,17 +29,19 @@
 	- redesigned the (simple) disguise menu
  
 	- fixed the simple disguise menu
-
-	- made the Medic charge in the Tournament Spec HUD better legible
-
-	- increased the gap between the 2 meters when using either Huntsman + Jarate as Sniper or Bonk + Sandman as Scout
- 
+SCOREBOARD:
 	- made the pub scoreboard smaller (vertically)
  
 	- rearranged the 6v6 scoreboard to match m0re's layout
  
 	- changed the font of the scoreboard player list to surface
- 
+LAYOUT CHANGES:
+	- increased the gap between the 2 meters when using either Huntsman + Jarate as Sniper or Bonk + Sandman as Scout
+SMALLER, OTHER CHANGES / BUGFIXES:
+	- fixed the KOTH timer
+
+	- made the Medic charge in the Tournament Spec HUD better legible
+FONT CHANGES:
 	- changed the koth/arena countdown font to Surface
  
 	- changed the default font to surface
