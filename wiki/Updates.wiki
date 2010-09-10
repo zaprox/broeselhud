@@ -1,4 +1,4 @@
-==10/09/2010 - v1.10==
+==10/09/2010 - v1.20==
 OBJECTIVES:
 	- made the CP HUD smaller (it's now ~ as big as the minmode CP HUD from the default HUD)
  
