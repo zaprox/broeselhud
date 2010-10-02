@@ -1,3 +1,27 @@
+==02/10/2010 - v1.30==
+
+	- fixed the scoreboard
+
+	- fixed the new menus (store, trading, etc)
+
+	- the disguise panel now has a pic of the class you're disguised as
+
+	- fixed the Engineer metal-count shadow not being black
+
+	- the target ID hp display in minmode is now bigger and beneath, not under the name
+
+	- fixed error messages occuring on startup
+
+	- reworked the engie menus' element spacing
+
+	- fixed the different font colors on the engie menus
+
+	- made the Stopwatch "time to beat" label bigger
+
+	- moved the 6v6 scoreboard up by some pixels to avoid overlapping with the adv. spec HUD
+
+	- removed the tips from the stats panel & loading screen stats panel
+
 ==10/09/2010 - v1.20==
 OBJECTIVES:
 	- made the CP HUD smaller (it's now ~ as big as the minmode CP HUD from the default HUD)
