@@ -7,7 +7,7 @@ http://img715.imageshack.us/img715/725/20096421.jpg
 http://img521.imageshack.us/img521/3923/74368238.jpg
 *6v6 scoreboard*
 http://img29.imageshack.us/img29/8397/15533787.jpg
-*Demoman HUD, Target ID in Minmode off, damage numbers payload HUD*
+*Demoman HUD, Target ID in Minmode off, damage numbers & payload HUD*
 http://img543.imageshack.us/img543/1111/32047992.jpg
 *Minmode HUD*
 http://img694.imageshack.us/img694/9827/65286506.jpg
