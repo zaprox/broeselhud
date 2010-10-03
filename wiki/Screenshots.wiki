@@ -1,21 +1,21 @@
 #labels Phase-Design
-*Team Menu
+*Team Menu*
 http://img4.imageshack.us/img4/3523/58839991.jpg
-*Class Menu
+*Class Menu*
 http://img715.imageshack.us/img715/725/20096421.jpg
-*12v12 Pub scoreboard
+*12v12 Pub scoreboard*
 http://img521.imageshack.us/img521/3923/74368238.jpg
-*6v6 scoreboard
+*6v6 scoreboard*
 http://img29.imageshack.us/img29/8397/15533787.jpg
-*Demoman HUD, Target ID in Minmode off, damage numbers payload HUD
+*Demoman HUD, Target ID in Minmode off, damage numbers payload HUD*
 http://img543.imageshack.us/img543/1111/32047992.jpg
-*Minmode HUD
+*Minmode HUD*
 http://img694.imageshack.us/img694/9827/65286506.jpg
-*Quickswitch Menu, winpanel, deathnotices
+*Quickswitch Menu, winpanel, deathnotices*
 http://img822.imageshack.us/img822/3080/59678558.jpg
-*Medic HUD
+*Medic HUD*
 http://img408.imageshack.us/img408/4836/60762700.jpg
-*Engie HUD
+*Engie HUD*
 http://img835.imageshack.us/img835/8015/81217604.jpg
-*Spy HUD
+*Spy HUD*
 http://img714.imageshack.us/img714/783/62832467.jpg
