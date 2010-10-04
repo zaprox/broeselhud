@@ -1,3 +1,21 @@
+==04/10/2010 - v1.40==
+
+	- added support for the duel minigame
+
+	- added a milk drop icon when you're milked
+
+	- removed the annoying, green +[hp] display
+
+	- reworked the stat summary panels
+
+	- edited the autobalance panel to fit the general style
+
+	- removed the camera thing from the killcam
+
+	- removed the class image from the 12v12 scoreboard
+
+	- added the mapname to the 12v12 scoreboard
+
 ==02/10/2010 - v1.30==
 
 	- fixed the scoreboard
