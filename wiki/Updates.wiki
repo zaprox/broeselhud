@@ -4,7 +4,7 @@
 
 	- added a milk drop icon when you're milked
 
-	- removed the annoying, green +[hp] display
+	- removed the annoying, green +[hp] display (still available as an option)
 
 	- reworked the stat summary panels
 
