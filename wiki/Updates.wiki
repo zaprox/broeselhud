@@ -1,3 +1,13 @@
+==21/10/2010 - v1.41==
+
+	- updated the HUD for the 21/10/2010 patch
+
+	- fixed the healing amount on the scoreboard (was grey, is now white)
+
+	- fixed the PostScript name of Surface not being capitalized correctly in the Clientscheme
+
+	- fixed a problem with the Russian localization of the game
+
 ==04/10/2010 - v1.40==
 
 	- added support for the duel minigame
