@@ -4,7 +4,7 @@
 
 	- fixed the healing amount on the scoreboard (was grey, is now white)
 
-	- fixed the Post-Script name of Surface not being capitalized correctly in the Clientscheme
+	- fixed the Post-Script name of Surface not being capitalized correctly in the Clientscheme file
 
 	- fixed a problem with the Russian localization of the game
 
