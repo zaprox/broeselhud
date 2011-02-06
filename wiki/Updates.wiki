@@ -1,3 +1,13 @@
+==07/02/2011 - v1.60==
+
+	- fixed the timer being displayed incorrectly
+	
+	- fixed the font on the class menu not being opaque
+
+	- made the CP icons a tad bigger
+
+	- added a custom menu
+
 ==19/12/2010 - v1.50==
 
 	- added an easy way of color-customization (further details in the Readme)
