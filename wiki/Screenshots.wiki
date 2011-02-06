@@ -1,4 +1,6 @@
 #labels Phase-Design
+*Main Menu*
+http://img145.imageshack.us/img145/4468/mainmenu.png
 *Team Menu*
 http://img4.imageshack.us/img4/3523/58839991.jpg
 *Class Menu*
