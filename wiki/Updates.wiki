@@ -1,3 +1,11 @@
+==15/04/2011 - v1.61==
+
+	- fixed crashes on startup
+
+	- reworked the main menu
+
+	- added a warning to the main menu to indicate when the HUD is broken
+
 ==07/02/2011 - v1.60==
 
 	- fixed the timer being displayed incorrectly
