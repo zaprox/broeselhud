@@ -1,3 +1,7 @@
+==16/04/2011 - v1.62==
+
+	- properly updated the core files of the HUD
+
 ==15/04/2011 - v1.61==
 
 	- fixed crashes on startup
