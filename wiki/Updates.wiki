@@ -1,3 +1,9 @@
+==06/05/2011 - v1.63==
+
+	- changed the coach screen to be more simple
+
+	- removed all the annoying stuff from the Saxxy Awards panel
+
 ==16/04/2011 - v1.62==
 
 	- properly updated the core files of the HUD
