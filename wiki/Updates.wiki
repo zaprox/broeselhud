@@ -1,3 +1,9 @@
+==01/06/2011 - v1.64==
+
+	- fixed the Engie build menu not being centered
+
+	- completely removed the Saxxy Awards panel
+
 ==06/05/2011 - v1.63==
 
 	- changed the coach screen to be more simple
