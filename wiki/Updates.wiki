@@ -1,3 +1,15 @@
+==24/06/2011 - v1.65==
+
+	- updated the core files of the HUD
+
+	- updated the main menu
+
+	- added support for the new unlocks
+
+	- fixed the crashes on startup
+
+	- changed scout item effect meters to show a description
+
 ==01/06/2011 - v1.64==
 
 	- fixed the Engie build menu not being centered
