@@ -1,4 +1,4 @@
-<center>==25/07/2011 - v1.67==</center>
+==25/07/2011 - v1.67==
 
 	- removed unused fonts from the Clientscheme file
 
