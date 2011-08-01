@@ -1,4 +1,3 @@
-#labels Phase-Design
 #sidebar Updates
 *Main Menu*
 http://img219.imageshack.us/img219/8930/mainmenux.png
