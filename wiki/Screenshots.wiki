@@ -1,4 +1,4 @@
-#sidebar Updates
+#sidebar sidebar_test
 *Main Menu*
 http://img219.imageshack.us/img219/8930/mainmenux.png
 *Team Menu*
