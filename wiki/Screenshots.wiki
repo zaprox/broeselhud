@@ -1,5 +1,5 @@
 #labels Featured
-note that some screenshots may look a bit off due to jpeg-compression combined with resizing
+note that some screenshots may look a bit off due to poor jpeg-compression combined with resizing
 
 click on an image to view it full-size
 
