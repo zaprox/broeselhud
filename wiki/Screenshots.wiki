@@ -1,4 +1,6 @@
 #labels Featured
+click on an image to view it full-size
+
 *Main Menu*
 <a href="http://img219.imageshack.us/img219/8930/mainmenux.png">http://img219.imageshack.us/img219/8930/mainmenux.png</a>
 *Team Menu*
