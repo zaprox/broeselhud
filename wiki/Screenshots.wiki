@@ -1,6 +1,6 @@
 #labels Featured
 *Main Menu*
-<a href=http://img219.imageshack.us/img219/8930/mainmenux.png>http://img219.imageshack.us/img219/8930/mainmenux.png</a>
+<a href="http://img219.imageshack.us/img219/8930/mainmenux.png">http://img219.imageshack.us/img219/8930/mainmenux.png</a>
 *Team Menu*
 <a href=http://img4.imageshack.us/img4/3523/58839991.jpg>http://img4.imageshack.us/img4/3523/58839991.jpg</a>
 *Class Menu*
