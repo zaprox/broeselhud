@@ -1,4 +1,10 @@
 #labels Featured
+==20/08/2011 - v1.68==
+
+	- updated the Diamondback crits counter
+
+	- updated the Pip-Boy build and destroy menu
+
 ==25/07/2011 - v1.67==
 
 	- removed unused fonts from the Clientscheme file
