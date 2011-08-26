@@ -1,4 +1,8 @@
 #labels Featured
+==27/08/2011 - v1.69==
+
+	- nothing is changed, just a rezip for the installer
+
 ==20/08/2011 - v1.68==
 
 	- updated the Diamondback crits counter
