@@ -1,7 +1,7 @@
 #labels Featured
 ==04/09/2011 - v1.71==
 
-	- updated ClientScheme.res
+	- updated ClientScheme
 
 ==27/08/2011 - v1.70==
 
