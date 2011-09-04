@@ -1,4 +1,8 @@
 #labels Featured
+==04/09/2011 - v1.71==
+
+	- updated ClientScheme.res
+
 ==27/08/2011 - v1.70==
 
 	- nothing changed, just a rezip for the installer
