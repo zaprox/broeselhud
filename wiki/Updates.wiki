@@ -1,4 +1,20 @@
 #labels Featured
+==22/10/2011 - v1.72==
+
+	- updated Clientscheme.res
+
+	- added a button for the new Steam Workshop in the main menu
+
+	- removed the "new user forums" button from the main menu
+
+	- added support for loadout presets in the quickswitch menu
+
+	- slightly tweaked the spacing between elements on the 6v6 scoreboard
+
+	- added a 32 player scoreboard
+
+	- completely rebuilt the classmenu with the new file structure
+	
 ==04/09/2011 - v1.71==
 
 	- updated clientscheme.res
