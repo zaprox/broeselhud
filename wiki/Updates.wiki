@@ -272,10 +272,10 @@ OTHER CHANGES:
 
 ==26/07/2010 - v1.02==
 
--fixed Scoreboard shadow bug
+	-fixed Scoreboard shadow bug
 
 ==26/07/2010 - v1.01==
 
--Damage numbers now use Surface Medium
+	-Damage numbers now use Surface Medium
 
--fixed Scoreboard bug
+	-fixed Scoreboard bug
