@@ -3,6 +3,16 @@
 
 	- updated Clientscheme.res
 
+	- added support for the boss-health panel
+
+	- updated hudlayout.res
+
+	- fixed the menu showing the old Halloween picture
+
+==22/10/2011 - v1.72==
+
+	- updated Clientscheme.res
+
 	- added a button for the new Steam Workshop in the main menu
 
 	- removed the "new user forums" button from the main menu
