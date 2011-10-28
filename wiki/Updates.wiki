@@ -7,7 +7,7 @@
 
 	- updated hudlayout.res
 
-	- fixed the menu showing the old Halloween picture
+	- fixed the menu not showing the 2011 Halloween picture
 
 ==22/10/2011 - v1.72==
 
