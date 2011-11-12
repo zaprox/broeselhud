@@ -1,9 +1,9 @@
 #labels Featured
 ==12/11/2011 - v1.74==
 
-	- moved the notifications (CTF, gates open in x seconds, etc..) to the upper half of the viewport
-
 	- removed the resource/ui/notifications/ directory as it doesn’t do anything actually
+
+	- moved the notifications (CTF, gates open in x seconds, etc..) to the upper half of the viewport
 
 	- added support for the fullmoon menu background
 
