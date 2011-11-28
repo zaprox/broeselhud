@@ -1,7 +1,7 @@
 #labels Featured
 note that some screenshots may look a bit off due to poor jpeg-compression combined with resizing
 
-=these are extremely outdated, new screenshots coming soon=
+<font size="4">these are extremely outdated, new screenshots coming soon</font>
 
 click on an image to view it full-size
 
