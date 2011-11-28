@@ -17,7 +17,7 @@
 
 	- reworked the color customization
 
-	- simplified they way to enable the low-ammo flash
+	- simplified the way to enable the low-ammo flash
 
 	- reworked the medpack/sandvich pickup notification
 
