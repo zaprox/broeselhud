@@ -1,4 +1,42 @@
 #labels Featured
+==28/11/2011 - v2.0==
+
+	- minmode 0/1 now switches between the 6v6 and 12v12 scoreboard
+
+	- added a button for switching the scoreboard to the menu
+
+	- sharpened the font on the big numbers (HP, ammo etc..)
+
+	- improved overall font appearance (especially under DX9)
+
+	- reduced the shadow offset on the HP and ammo to 1 (was 2)
+
+	- slightly adjusted the font height on the health cross
+
+	- reworked the targetIDs
+
+	- reworked the color customization
+
+	- simplified they way to enable the low-ammo flash
+
+	- reworked the medpack/sandvich pickup notification
+
+	- reworked the duel minigame section on the scoreboard
+
+	- fixed the notifications having a background panel
+
+	- changed the notification text color to white
+
+	- deleted unmodified files from the build_menu directory
+
+	- renamed all instances of Surface to surfaceXX (XX = size)
+
+	- cleaned up a lot of old clutter in the files
+
+	- removed the materials directory
+
+	- rewrote the Readme file
+
 ==12/11/2011 - v1.74==
 
 	- removed the resource/ui/notifications/ directory as it doesn’t do anything actually
