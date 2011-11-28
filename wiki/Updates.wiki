@@ -3,7 +3,7 @@
 
 	- minmode 0/1 now switches between the 6v6 and 12v12 scoreboard
 
-	- added a button for switching the scoreboard to the menu
+	- added a button to the menu for switching the scoreboard
 
 	- sharpened the font on the big numbers (HP, ammo etc..)
 
