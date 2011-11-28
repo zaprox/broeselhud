@@ -1,6 +1,8 @@
 #labels Featured
 note that some screenshots may look a bit off due to poor jpeg-compression combined with resizing
 
+=these are extremely outdated, new screenshots coming soon=
+
 click on an image to view it full-size
 
 *Main Menu*
