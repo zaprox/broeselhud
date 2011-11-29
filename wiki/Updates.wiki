@@ -37,7 +37,7 @@
 
 	- rewrote the Readme file
 
-==12/11/2011 - v1.74==
+==12/11/2011 - v1.7.4==
 
 	- removed the resource/ui/notifications/ directory as it doesn’t do anything actually
 
@@ -45,7 +45,7 @@
 
 	- added support for the fullmoon menu background
 
-==28/10/2011 - v1.73==
+==28/10/2011 - v1.7.3==
 
 	- updated Clientscheme.res
 
@@ -55,7 +55,7 @@
 
 	- fixed the menu not showing the 2011 Halloween picture
 
-==22/10/2011 - v1.72==
+==22/10/2011 - v1.7.2==
 
 	- updated Clientscheme.res
 
@@ -71,25 +71,25 @@
 
 	- completely rebuilt the classmenu with the new file structure
 	
-==04/09/2011 - v1.71==
+==04/09/2011 - v1.7.1==
 
 	- updated clientscheme.res
 
-==27/08/2011 - v1.70==
+==27/08/2011 - v1.7.0==
 
 	- nothing changed, just a rezip for the installer
 
-==27/08/2011 - v1.69==
+==27/08/2011 - v1.6.9==
 
 	- nothing changed, just a rezip for the installer
 
-==20/08/2011 - v1.68==
+==20/08/2011 - v1.6.8==
 
 	- updated the Diamondback crits counter
 
 	- updated the Pip-Boy build and destroy menu
 
-==25/07/2011 - v1.67==
+==25/07/2011 - v1.6.7==
 
 	- removed unused fonts from the Clientscheme file
 
@@ -103,7 +103,7 @@
 
 	- removed the "view promotional codes" button from the main menu
 
-==26/06/2011 - v1.66==
+==26/06/2011 - v1.6.6==
 
 	- fixed the buttons in the main menu not working
 
@@ -111,7 +111,7 @@
 
 	- changed the Scout itemeffect-meter labels to be black and always visible
 
-==24/06/2011 - v1.65==
+==24/06/2011 - v1.6.5==
 
 	- updated the core files of the HUD
 
@@ -123,23 +123,23 @@
 
 	- changed scout item effect meters to show a description
 
-==01/06/2011 - v1.64==
+==01/06/2011 - v1.6.4==
 
 	- fixed the Engie build menu not being centered
 
 	- completely removed the Saxxy Awards panel
 
-==06/05/2011 - v1.63==
+==06/05/2011 - v1.6.3==
 
 	- changed the coach screen to be more simple
 
 	- removed all the annoying stuff from the Saxxy Awards panel
 
-==16/04/2011 - v1.62==
+==16/04/2011 - v1.6.2==
 
 	- properly updated the core files of the HUD
 
-==15/04/2011 - v1.61==
+==15/04/2011 - v1.6.1==
 
 	- fixed crashes on startup
 
@@ -147,7 +147,7 @@
 
 	- added a warning to the main menu to indicate when the HUD is broken
 
-==07/02/2011 - v1.60==
+==07/02/2011 - v1.6.0==
 
 	- fixed the timer being displayed incorrectly
 	
@@ -159,7 +159,7 @@
 	
 	- updated the Clientscheme file 
 
-==19/12/2010 - v1.50==
+==19/12/2010 - v1.5.0==
 
 	- added an easy way of color-customization (further details in the Readme)
 
@@ -192,7 +192,7 @@
 
 	- fixed the loading screen crashing TF2
 
-==21/10/2010 - v1.41==
+==21/10/2010 - v1.4.1==
 
 	- updated the HUD for the 21/10/2010 patch
 
@@ -202,7 +202,7 @@
 
 	- fixed a problem with the Russian localization of the game
 
-==04/10/2010 - v1.40==
+==04/10/2010 - v1.4.0==
 
 	- added support for the duel minigame
 
@@ -220,7 +220,7 @@
 
 	- added the mapname to the 12v12 scoreboard
 
-==02/10/2010 - v1.30==
+==02/10/2010 - v1.3.0==
 
 	- fixed the scoreboard
 
@@ -244,7 +244,7 @@
 
 	- removed the tips from the stats panel & loading screen stats panel
 
-==10/09/2010 - v1.20==
+==10/09/2010 - v1.2.0==
 OBJECTIVES:
 	- made the CP HUD smaller (it's now ~ as big as the minmode CP HUD from the default HUD)
  
@@ -293,7 +293,7 @@ FONT CHANGES:
 	- changed the default font to surface
         
 		- voicemenus, ammomod arena selection, mapvote menus etc. all appear with surface medium now
-==04/08/2010 - v1.10==
+==04/08/2010 - v1.1.0==
 HP DISPLAY:
 
 	- added an option for a minmode HP display like in m0rehud
@@ -326,11 +326,11 @@ OTHER CHANGES:
 
 	- added a 6v6 side-by-side scoreboard
 
-==26/07/2010 - v1.02==
+==26/07/2010 - v1.0.2==
 
 	-fixed Scoreboard shadow bug
 
-==26/07/2010 - v1.01==
+==26/07/2010 - v1.0.1==
 
 	-Damage numbers now use Surface Medium
 
