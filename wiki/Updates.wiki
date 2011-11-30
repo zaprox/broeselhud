@@ -1,4 +1,10 @@
 #labels Featured
+==30/11/2011 - v2.0.1==
+
+	- re-added the team-colored HP cross border option
+
+	- changed the font file to the old one to avoid bugs at low resolutions
+
 ==28/11/2011 - v2.0==
 
 	- minmode 0/1 now switches between the 6v6 and 12v12 scoreboard
