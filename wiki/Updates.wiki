@@ -1,4 +1,8 @@
 #labels Featured
+==01/12/2011 - v2.0.2==
+
+	- fixed the syringe gun ammo being cut off on some resolutions
+
 ==30/11/2011 - v2.0.1==
 
 	- re-added the team-colored HP cross border option
