@@ -1,4 +1,16 @@
 #labels Featured
+==30/12/2011 - v2.0.3==
+
+	- updated Clientscheme.res
+
+	- added support for the Christmas menu-background
+
+	- added support for the Pomson 6000
+
+	- added support for the Spy-cicle
+
+	- reworked the Readme file
+
 ==01/12/2011 - v2.0.2==
 
 	- fixed the syringe gun ammo being cut off on some resolutions
@@ -344,4 +356,40 @@ OTHER CHANGES:
 
 	-Damage numbers now use Surface Medium
 
-	-fixed Scoreboard bug
+	-fixed Scoreboard bug button from the main menu
+
+	- added support for loadout presets in the quickswitch menu
+
+	- slightly tweaked the spacing between elements on the 6v6 scoreboard
+
+	- added a 32 player scoreboard
+
+	- completely rebuilt the classmenu with the new file structure
+	
+==04/09/2011 - v1.7.1==
+
+	- updated clientscheme.res
+
+==27/08/2011 - v1.7.0==
+
+	- nothing changed, just a rezip for the installer
+
+==27/08/2011 - v1.6.9==
+
+	- nothing changed, just a rezip for the installer
+
+==20/08/2011 - v1.6.8==
+
+	- updated the Diamondback crits counter
+
+	- updated the Pip-Boy build and destroy menu
+
+==25/07/2011 - v1.6.7==
+
+	- removed unused fonts from the Clientscheme file
+
+	- removed the Replay notification from the killcam
+
+	- changed the Replay reminder
+
+	- added support for the Cow Mangler 
