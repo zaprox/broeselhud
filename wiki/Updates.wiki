@@ -5,6 +5,8 @@
 
 	- added support for the Christmas menu-background
 
+	- increased the spacing between multiple item effect meters
+
 	- added support for the Pomson 6000
 
 	- added support for the Spy-cicle
