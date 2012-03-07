@@ -352,46 +352,14 @@ OTHER CHANGES:
 
 ==26/07/2010 - v1.0.2==
 
-	-fixed Scoreboard shadow bug
+	- fixed Scoreboard shadow bug
 
 ==26/07/2010 - v1.0.1==
 
-	-Damage numbers now use Surface Medium
+	- Damage numbers now use Surface Medium
 
-	-fixed Scoreboard bug button from the main menu
+	- fixed Scoreboard bug button from the main menu
 
-	- added support for loadout presets in the quickswitch menu
+==25/07/2010 - v1.0==
 
-	- slightly tweaked the spacing between elements on the 6v6 scoreboard
-
-	- added a 32 player scoreboard
-
-	- completely rebuilt the classmenu with the new file structure
-	
-==04/09/2011 - v1.7.1==
-
-	- updated clientscheme.res
-
-==27/08/2011 - v1.7.0==
-
-	- nothing changed, just a rezip for the installer
-
-==27/08/2011 - v1.6.9==
-
-	- nothing changed, just a rezip for the installer
-
-==20/08/2011 - v1.6.8==
-
-	- updated the Diamondback crits counter
-
-	- updated the Pip-Boy build and destroy menu
-
-==25/07/2011 - v1.6.7==
-
-	- removed unused fonts from the Clientscheme file
-
-	- removed the Replay notification from the killcam
-
-	- changed the Replay reminder
-
-	- added support for the Cow Mangler 
+	- public release
