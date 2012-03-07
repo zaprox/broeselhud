@@ -358,7 +358,7 @@ OTHER CHANGES:
 
 	- Damage numbers now use Surface Medium
 
-	- fixed Scoreboard bug button from the main menu
+	- fixed Scoreboard bug
 
 ==25/07/2010 - v1.0==
 
