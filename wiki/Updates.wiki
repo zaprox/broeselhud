@@ -11,7 +11,7 @@
 
 	- fixed the damage-done BG not having a unique field name
 
-	- updated the ReadMe file
+	- updated the Readme file
 
 ==30/12/2011 - Version 2.0.3==
 
