@@ -1,4 +1,18 @@
 #labels Featured
+==08/03/2012 - v2.1==
+
+	- added lots of HUD crosshairs (courtesy of Garm3n)
+
+	- damage-done value now fades after 10 seconds
+
+	- organized fonts in a seperate folder
+
+	- fixed the HP cross border disappearing in minmode
+
+	- fixed the damage-done BG not having a unique field name
+
+	- updated the ReadMe file
+
 ==30/12/2011 - v2.0.3==
 
 	- updated Clientscheme.res
@@ -171,7 +185,7 @@
 
 	- added a warning to the main menu to indicate when the HUD is broken
 
-==07/02/2011 - v1.6.0==
+==07/02/2011 - v1.6==
 
 	- fixed the timer being displayed incorrectly
 	
@@ -183,7 +197,7 @@
 	
 	- updated the Clientscheme file 
 
-==19/12/2010 - v1.5.0==
+==19/12/2010 - v1.5==
 
 	- added an easy way of color-customization (further details in the Readme)
 
@@ -226,7 +240,7 @@
 
 	- fixed a problem with the Russian localization of the game
 
-==04/10/2010 - v1.4.0==
+==04/10/2010 - v1.4==
 
 	- added support for the duel minigame
 
@@ -244,7 +258,7 @@
 
 	- added the mapname to the 12v12 scoreboard
 
-==02/10/2010 - v1.3.0==
+==02/10/2010 - v1.3==
 
 	- fixed the scoreboard
 
@@ -268,7 +282,7 @@
 
 	- removed the tips from the stats panel & loading screen stats panel
 
-==10/09/2010 - v1.2.0==
+==10/09/2010 - v1.2==
 OBJECTIVES:
 	- made the CP HUD smaller (it's now ~ as big as the minmode CP HUD from the default HUD)
  
@@ -317,7 +331,7 @@ FONT CHANGES:
 	- changed the default font to surface
         
 		- voicemenus, ammomod arena selection, mapvote menus etc. all appear with surface medium now
-==04/08/2010 - v1.1.0==
+==04/08/2010 - v1.1==
 HP DISPLAY:
 
 	- added an option for a minmode HP display like in m0rehud
