@@ -1,4 +1,8 @@
 #labels Featured
+==02/04/2012 - Version 2.1.2==
+
+	- fixed Surface Sharpened not loading correctly on Windows due to the changes made in 2.1.1
+
 ==29/03/2012 - Version 2.1.1==
 
 	- fixed Surface Sharpened not loading correctly on Mac OS X
