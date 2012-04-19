@@ -1,4 +1,8 @@
 #labels Featured
+==19/04/2012 - Version 2.1.3==
+
+	- added support for the AdmirableTimer™ - Addon
+
 ==02/04/2012 - Version 2.1.2==
 
 	- fixed Surface Sharpened not loading correctly on Windows due to the changes in 2.1.1
