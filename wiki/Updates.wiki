@@ -1,4 +1,8 @@
 #labels Featured
+==20/04/2012 - Version 2.1.4==
+
+	- fixed the "surface36shadow" font style
+
 ==19/04/2012 - Version 2.1.3==
 
 	- added support for the Admirable-Timer™ - Addon
