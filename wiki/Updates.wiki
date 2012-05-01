@@ -1,4 +1,10 @@
 #labels Featured
+==01/05/2012 - Version 2.1.5==
+
+	- fixed the "don't show last damage done" - option
+
+	- fixed the positive damage color (used to indicate heals) not using the correct color name
+
 ==20/04/2012 - Version 2.1.4==
 
 	- fixed the "surface36shadow" font style
