@@ -3,7 +3,7 @@
 
 	- fixed the "don't show last damage done" - option
 
-	- fixed the positive damage color (used to indicate heals) not using the correct color name
+	- fixed the positive damage (used to indicate heals) not using the correct color name
 
 ==20/04/2012 - Version 2.1.4==
 
