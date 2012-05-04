@@ -1,4 +1,8 @@
 #labels Featured
+==04/05/2012 - Version 2.1.6==
+
+	- updated the main menu MOTD system
+
 ==01/05/2012 - Version 2.1.5==
 
 	- fixed the "don't show last damage done" - option
