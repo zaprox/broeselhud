@@ -173,7 +173,7 @@
 
 	- reworked the warning in the main menu that shows up when the HUD is broken
 
-	- changed the Scout itemeffect-meter labels to be black and always visible
+	- changed the Scout item effect-meter labels to be black and always visible
 
 ==24/06/2011 - Version 1.6.5==
 
