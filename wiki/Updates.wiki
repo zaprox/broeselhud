@@ -1,10 +1,10 @@
 #labels Featured
 ==11/08/2012 - Version 2.1.6==
 
-        - decreased the shadow offset on the following elements:
-                - last damage done
-                - sticky count
-                - TargetID HP numbers
+	- decreased the shadow offset on the following elements:
+		- last damage done
+		- sticky count
+		- TargetID HP numbers
 
 	- fixed the team name field-boundaries on the following elements (fix for ESEA players):
 		- tournament setup panel
