@@ -4,7 +4,7 @@
 	- decreased the shadow offset on the following elements:
 		- last damage done
 		 
-		- sticky count
+				- sticky count
 		 
 		- TargetID HP numbers
 
