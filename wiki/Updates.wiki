@@ -6,7 +6,7 @@
 		- sticky count
 		- TargetID HP numbers
 
-	- fixed the team name field-boundaries on the following elements [fix for ESEA players]:
+	- fixed the team name field-boundaries on the following elements (fix for ESEA players):
 		- tournament setup panel
 		- winpanel
 		- scoreboard
