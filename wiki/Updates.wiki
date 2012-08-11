@@ -3,7 +3,7 @@
 
 	- decreased the shadow offset on the following elements:
 		- last damage done
-- sticky count
+		- sticky count
 		- TargetID HP numbers
 
 	- fixed the team name field-boundaries on the following elements (fix for ESEA players):
