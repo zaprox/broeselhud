@@ -1,8 +1,8 @@
 #labels Featured
 ==11/08/2012 - Version 2.1.6==
 
-	- decreased the shadow offset on the following elements:
-		- last damage done
+  - decreased the shadow offset on the following elements:
+    - last damage done
 		- sticky count
 		- TargetID HP numbers
 
