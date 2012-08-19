@@ -1,34 +1,4 @@
 #labels Featured
-==11/08/2012 - Version 2.1.6==
-
-	- decreased the shadow offset on the following elements:
-		- last damage done
-		- sticky count
-		- TargetID HP numbers
-
-	- fixed the team name field-boundaries on the following elements (fix for ESEA players):
-		- tournament setup panel
-		- winpanel
-		- scoreboard
-
-	- fixed some minor alignment issues on the Stopwatch HUD
-	
-	- fixed the TargetID buff cross not being centered on the HP 
-
-	- removed the "x" on the CP cap count
-
-	- increased the font size of the CP cap count
-
-	- updated Clientscheme.res
-
-	- added Surface-Numbers font
-
-	- added support for the Hitman's Heatmaker
-	
-	- added support for the Special Delivery game mode
-
-	- added the flag to the CTF-arrow when picking up the intel
-
 ==04/05/2012 - Version 2.1.6==
 
 	- updated the main menu MOTD system
