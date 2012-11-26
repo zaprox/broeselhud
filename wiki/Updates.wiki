@@ -1,4 +1,82 @@
 #labels Featured
+==26/11/2012 - Version 2.2==
+
+	- added MvM support
+
+	- reworked the HUD crosshairs
+
+	- reworked the spec-HUD
+
+	- made the class menu smaller
+
+	- made the disguise menu smaller and moved it above the crosshair
+
+	- removed the "x" on the CP cap count
+
+	- increased the font size of the CP cap count
+
+	- added Surface-Numbers font
+
+	- added a "Play Co-Op" button to the main menu
+
+	- edited the vote HUD to fit the overall style
+
+	- made the damage indicators a bit thinner
+
+	- fixed some minor alignment issues on the Stopwatch HUD
+
+	- fixed the TargetID buff cross not being centered on the HP
+
+	- vertically centered the name label on the oldschool targetID
+
+	- changed the HP alignment on the oldschool targetID to left
+
+	- decreased the shadow offset on the following elements:
+		* last damage done
+		* sticky count
+		* TargetID HP numbers
+
+	- increased the team name boundaries on the following elements [fix for ESEA players]:
+		* tournament setup panel
+		* winpanel
+		* scoreboard
+
+	- updated Clientscheme.res
+
+	- updated hudlayout.res
+
+	- updated the animations file
+
+	- made the Replay info panels less opaque
+
+	- reduced the border width on the Replay info panels
+
+	- reduced the border width on the Engie build & destroy panel
+
+	- adjusted the name text-field on the tournament setup panel
+
+	- fixed several charge meters not being white
+
+	- fixed the map name on the team menu not being white
+
+	- increased the font size of the server name on the scoreboard
+
+	- reduced the font size on the replay message panel
+
+	- reduced the damage number fade time by 33%
+
+	- added support for the Hitman's Heatmaker
+
+	- added support for the Special Delivery game mode
+
+	- added the flag to the CTF-arrow when picking up the intel
+
+	- fixed the CP timer in Medieval Mode
+
+	- added support for the Flying Guillotine
+
+	- added the "Marked for Death" icon
+
 ==04/05/2012 - Version 2.1.6==
 
 	- updated the main menu MOTD system
