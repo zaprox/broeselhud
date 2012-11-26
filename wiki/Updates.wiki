@@ -36,7 +36,7 @@
 		* sticky count
 		* TargetID HP numbers
 
-	- increased the team name boundaries on the following elements `[`fix for ESEA players`]`:
+	- increased the team name boundaries on the following elements (fix for ESEA players):
 		* tournament setup panel
 		* winpanel
 		* scoreboard
