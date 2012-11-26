@@ -1,29 +1,2 @@
 #labels Featured
-note that some screenshots may look a bit off due to poor jpeg-compression combined with resizing
-
-<font size="5"><b>these are extremely outdated, new screenshots coming soon</b></font>
-
 click on an image to view it full-size
-
-*Main Menu*
-<a href="http://img219.imageshack.us/img219/8930/mainmenux.png">http://img219.imageshack.us/img219/8930/mainmenux.png</a>
-*Team Menu*
-<a href="http://img4.imageshack.us/img4/3523/58839991.jpg">http://img4.imageshack.us/img4/3523/58839991.jpg</a>
-*Class Menu*
-<a href="http://img715.imageshack.us/img715/725/20096421.jpg">http://img715.imageshack.us/img715/725/20096421.jpg</a>
-*12v12 Pub scoreboard*
-<a href="http://img521.imageshack.us/img521/3923/74368238.jpg">http://img521.imageshack.us/img521/3923/74368238.jpg</a>
-*6v6 scoreboard*
-<a href="http://img29.imageshack.us/img29/8397/15533787.jpg">http://img29.imageshack.us/img29/8397/15533787.jpg</a>
-*Demoman HUD, Target ID in Minmode off, damage numbers & payload HUD*
-<a href="http://img543.imageshack.us/img543/1111/32047992.jpg">http://img543.imageshack.us/img543/1111/32047992.jpg</a>
-*Minmode HUD*
-<a href="http://img694.imageshack.us/img694/9827/65286506.jpg">http://img694.imageshack.us/img694/9827/65286506.jpg</a>
-*Quickswitch Menu, winpanel, deathnotices*
-<a href="http://img822.imageshack.us/img822/3080/59678558.jpg">http://img822.imageshack.us/img822/3080/59678558.jpg</a>
-*Medic HUD*
-<a href="http://img408.imageshack.us/img408/4836/60762700.jpg">http://img408.imageshack.us/img408/4836/60762700.jpg</a>
-*Engie HUD*
-<a href="http://img835.imageshack.us/img835/8015/81217604.jpg">http://img835.imageshack.us/img835/8015/81217604.jpg</a>
-*Spy HUD*
-<a href="http://img714.imageshack.us/img714/783/62832467.jpg">http://img714.imageshack.us/img714/783/62832467.jpg</a>
