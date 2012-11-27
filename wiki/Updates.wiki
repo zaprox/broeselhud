@@ -1,4 +1,18 @@
 #labels Featured
+==27/11/2012 - Version 2.3==
+
+	- fixed the tournament setup panel not being centered
+
+	- customized the MOTD screen
+
+	- customized the map info screen
+
+	- removed the shotung spread crosshair
+
+	- removed the slide-down animation of the "time added" popup
+
+	- reworked the item counts (revenge crits, heads etc)
+
 ==26/11/2012 - Version 2.2==
 
 	- added MvM support
