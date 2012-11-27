@@ -7,7 +7,7 @@
 
 	- customized the map info screen
 
-	- removed the shotung spread crosshair
+	- removed the shotgun spread crosshair
 
 	- removed the slide-down animation of the "time added" popup
 
