@@ -21,7 +21,9 @@
 
 	- reworked the HUD crosshairs
 
-	- reworked the spec-HUD
+	- reworked the spec HUD
+
+	- reworked the Readme file 
 
 	- made the class menu smaller
 
