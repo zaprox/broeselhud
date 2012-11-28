@@ -13,6 +13,8 @@
 
 	- reworked the item counts (revenge crits, heads etc)
 
+	- added support for backpack borders on Haunted items
+
 ==26/11/2012 - Version 2.2==
 
 	- added MvM support
