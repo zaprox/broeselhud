@@ -1,4 +1,20 @@
 #labels Featured
+==05/12/2012 - Version 2.4==
+
+	- removed the title from the class menu
+
+	- reworked the "you got switched to BLU/RED" panel
+
+	- reworked the "teams will be scrambled" panel
+
+	- edited the Bazar Bargain's counter to match the other item counters
+
+	- edited the Quickswitch panel to fit the general style
+
+	- removed all lodef and hidef marks from the HUD files
+
+	- updated Clientscheme.res
+
 ==27/11/2012 - Version 2.3==
 
 	- fixed the tournament setup panel not being centered
