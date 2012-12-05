@@ -11,6 +11,8 @@
 
 	- edited the Quickswitch panel to fit the general style
 
+	- edited the map intro menu to match the other intro panels
+
 	- removed all lodef and hidef marks from the HUD files
 
 	- updated Clientscheme.res
