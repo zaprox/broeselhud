@@ -43,4 +43,5 @@ simply click "Import HUD config" and choose the configuration file.
 
 If the path and resolution are not saved on successfull install, your config
 (`%AppData%\broeselhud Installer\bhIConfig.ini`)
+
 is set to read only.
