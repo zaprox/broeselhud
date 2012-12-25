@@ -42,4 +42,4 @@ If you want to store all your settings (options, colors, etc) in a file, click
 simply click "Import HUD config" and choose the configuration file.
 
 If the path and resolution are not saved on successfull install, your config
-(%AppData%\bhIConfig.ini) is set to read only.
+(`%AppData%\bhIConfig.ini`) is set to read only.
