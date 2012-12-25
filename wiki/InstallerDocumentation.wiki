@@ -30,8 +30,7 @@ have to edit/enable them manually via hudlayout.res or the Installer.
 
 Step 1: Select your in-game resolution from the dropdown field.
 
-Step 2: Click "Select & Customize Colors" to open the crosshair editor.
-        When done, click "Save".
+Step 2: Click "Select & Customize Colors" to open the crosshair editor. When done, click "Save".
 
 ==HUD configs==
 
