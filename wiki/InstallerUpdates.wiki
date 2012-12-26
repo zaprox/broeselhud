@@ -1,3 +1,10 @@
+==27/12/2012 - Version 1.1==
+
+	- fixed TF2 path detection
+
+	- fixed an issue with the crosshair database on older versions of Windows
+
+
 ==26/12/2012 - Version 1.0==
 
 	- public release
