@@ -15,7 +15,7 @@
 
 	- fixed alignment issues on the MvM scoreboard stats panel
 
-	- updated MainMenuOverride .res
+	- updated the main menu file
 
 	- fixed the differing damage fade time when using the cross
 
