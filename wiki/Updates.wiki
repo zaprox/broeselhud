@@ -1,33 +1,35 @@
 #labels Featured
 ==05/01/2013 - Version 2.5==
 
+	- added support for the Vaccinator
+
 	- added support for the MvM sapper
 
 	- changed the counts on the class menu to a less flashy color
 
-	- added support for the Vaccinator
-
-	- fixed the skip button on the intro movie menu not working
-
-	- renamed the tank panel according to the Mecha update
-
-	- fixed the text on the Engie menus not being white
-
-	- fixed alignment issues on the MvM scoreboard stats panel
-
-	- updated the main menu file
-
-	- fixed the differing damage fade time when using the cross
-
-	- fixed the icon position on the "you got switched to BLU/RED" panel
-
-	- slightly moved up the class image on the spec HUD
+	- edited the vote setup to fit the general style
 
 	- fixed the HP showing up for dead players in the spec HUD
 
 	- fixed the milk icon overlapping with the HP
 
-	- edited the vote setup to fit the general style
+	- fixed the skip button on the intro movie menu not working
+
+	- fixed the icon position on the "you got switched to BLU/RED" panel
+
+	- fixed the differing damage fade time when using the cross
+
+	- fixed the class image on the spec HUD overlapping with the border
+
+	- fixed the inspect panel getting cut off at long descriptions
+
+	- fixed the text on the Engie menus not being white
+
+	- fixed alignment issues on the MvM scoreboard stats panel
+
+	- renamed the tank panel according to the Mecha update
+
+	- updated the main menu file
 
 	- made the arena class layout panel smaller
 
