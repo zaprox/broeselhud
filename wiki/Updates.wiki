@@ -1,4 +1,40 @@
 #labels Featured
+==05/01/2013 - Version 2.5==
+
+	- added support for the MvM sapper
+
+	- changed the counts on the class menu to a less flashy color
+
+	- added support for the Vaccinator
+
+	- fixed the skip button on the intro movie menu not working
+
+	- renamed the tank panel according to the Mecha update
+
+	- fixed the text on the Engie menus not being white
+
+	- fixed alignment issues on the MvM scoreboard stats panel
+
+	- updated MainMenuOverride.res
+
+	- fixed the differing damage fade time when using the cross
+
+	- fixed the icon position on the "you got switched to BLU/RED" panel
+
+	- slightly moved up the class image on the spec HUD
+
+	- fixed the HP showing up for dead players in the spec HUD
+
+	- fixed the milk icon overlapping with the HP
+
+	- edited the vote setup to fit the general style
+
+	- made the arena class layout panel smaller
+
+	- edited the arena notification panel to fit the general style
+
+	- added a changelog to the zip file commentary
+
 ==05/12/2012 - Version 2.4==
 
 	- removed the title from the class menu
