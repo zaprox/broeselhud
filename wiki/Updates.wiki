@@ -1,4 +1,26 @@
 #labels Featured
+==01/04/2013 - Version 2.6==
+
+	- properly centered the HUD crosshairs
+
+	- added the Wings crosshair
+
+	- modified the netgraph to take up less width (full credit goes to INsane)
+
+	- changed the Surface numerals to a set of custom, proportional ones
+
+	- re-added the transparent health cross (it now works on sv_pure 2 aswell)
+
+	- edited the HTML MOTD panel to match the regular MOTD panel
+
+	- added the MvM buyback label
+
+	- added support for the Halloween 2012 wheel
+
+	- fixed 3-digit scoreboard kills getting cut off
+
+	- increased the size limit for HUD crosshairs to 48
+
 ==05/01/2013 - Version 2.5==
 
 	- added support for the Vaccinator
