@@ -1,6 +1,4 @@
 #labels Featured
-click on an image to view it full-size
-
 [http://s8.postimage.org/ma12vlp3p/image.png http://s8.postimage.org/ma12vlp3p/image.png]
 [http://s8.postimage.org/boh7jlis5/image.png http://s8.postimage.org/boh7jlis5/image.png]
 [http://s8.postimage.org/wzjd1lqad/image.png http://s8.postimage.org/wzjd1lqad/image.png]
