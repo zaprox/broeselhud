@@ -1,4 +1,44 @@
 #labels Featured
+==03/06/2013 - Version 2.6==
+
+	- changed the Surface numerals to a set of custom, proportional ones
+
+	- properly centered the HUD crosshairs
+
+	- added the Wings crosshair
+
+	- added the crosshair that this HUD deserves, but not the one it needs right now
+
+	- modified the netgraph to take up less width (full credit goes to INsane)
+
+	- re-added the transparent health cross (now works on sv_pure 2 aswell)
+
+	- vastly improved the appearance of the HP cross border
+
+	- added a dropshadow to the damage numbers
+
+	- slightly reduced the damage numbers fade time (from 1.33s to 1.2s)
+
+	- reworked the Readme file (added FAQ, HUD crosshair names etc)
+
+	- reworked the notifications on the main menu
+
+	- fixed 3-digit scoreboard kills getting cut off
+
+	- increased the size limit for HUD crosshairs from 32 to 50
+
+	- made the Ubercharge pulse smoother
+
+	- added support for the Halloween "Wheel of Fate"
+
+	- fixed the "marked for death" and milk icon placement
+
+	- edited the HTML MOTD panel to match the regular MOTD panel
+
+	- fixed the rating label on the MvM end-round panel
+
+	- added the MvM buyback label
+
 ==05/01/2013 - Version 2.5==
 
 	- added support for the Vaccinator
