@@ -35,6 +35,8 @@
 
 	- edited the HTML MOTD panel to match the regular MOTD panel
 
+	- added support for disposable sentries in MvM
+
 	- fixed the rating label on the MvM end-round panel
 
 	- added the MvM buyback label
