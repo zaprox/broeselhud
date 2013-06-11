@@ -1,4 +1,26 @@
 #labels Featured
+==11/06/2013 - Version 2.7==
+
+	- made the Batman crosshair easily usable by adding it to hudlayout.res
+
+	- fixed the main menu notifications
+
+	- fixed the oldschool TargetID HP value not being vertically centered
+
+	- made the border of the chatbox thinner
+
+	- fixed the shadow-fix (prev. Low-Res) HP file not using the correct font
+
+	- the alternative HP file now also fixes the shadow on high resolutions
+
+	- updated clientscheme.res
+
+	- accurately centered the winpanel
+
+	- updated the Readme file
+
+	- fixed the vote HUD (removed the kick reason selector)
+
 ==03/06/2013 - Version 2.6==
 
 	- changed the Surface numerals to a set of custom, proportional ones
