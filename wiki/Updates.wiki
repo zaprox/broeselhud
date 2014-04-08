@@ -1,4 +1,42 @@
 #labels Featured
+==08/04/2014 - Version 2.8==
+
+	- fixed the MvM player list getting cut off
+
+	- fixed the ping column on the scoreboard
+
+	- added support for the server time left display
+
+	- added support for killstreaks
+
+	- reduced the size of the chatbox and moved it up a bit
+
+	- added the proper color code for collector's items
+
+	- added an ammo icon to the TargetID
+
+	- increased the size of the main menu BG panel
+
+	- added support for the 3D avatar
+
+	- fixed the bug that always showed a red scout when disguised
+
+	- added support for the spellbook
+
+	- added indicators for active Soldier banners
+
+	- adjusted size and positioning of the Vaccinator icons
+
+	- adjusted positioning of the marked for death and milk icons
+
+	- fixed "[unknown]" being displayed in the inspect panel
+
+	- added Heavy knockback rage and Medic energy shield meters
+
+	- slightly moved down the Vaccinator charge bar
+
+	- changed the color of the Power Up Canteen counter to white
+
 ==11/06/2013 - Version 2.7==
 
 	- made the Batman crosshair easily usable by adding it to hudlayout.res
