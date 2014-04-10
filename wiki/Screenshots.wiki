@@ -1,4 +1,8 @@
 #labels Featured
+<font size=5>*`broeselhud is now hosted on SourceForge:`*
+
+*[https://sourceforge.net/projects/broeselhud/ https://sourceforge.net/projects/broeselhud/]*</font>
+
 screenshots are scaled down from 1440x900 to 830x519
 
 click on an image to view it full-size
