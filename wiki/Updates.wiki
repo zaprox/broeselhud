@@ -1,4 +1,8 @@
 #labels Featured
+<font size=5>*`broeselhud is now hosted on SourceForge:`*
+
+*[https://sourceforge.net/projects/broeselhud/ https://sourceforge.net/projects/broeselhud/]*</font>
+
 ==08/04/2014 - Version 2.8==
 
 	- fixed the MvM player list getting cut off
