@@ -1,4 +1,8 @@
-==HUD options==
+<font size=5>*`broeselhud is now hosted on SourceForge`*
+
+*[https://sourceforge.net/projects/broeselhud/ https://sourceforge.net/projects/broeselhud/]*</font>
+
+<wiki:comment>==HUD options==
 
 * aspect ratio in game
 
