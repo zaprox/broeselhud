@@ -1,5 +1,5 @@
 #labels Featured
-<font size=5>*broeselhud is now hosted on SourceForge:*
+<font size=5>*broeselhud is now hosted on Sourceforge:*
 
 *[https://sourceforge.net/projects/broeselhud/ https://sourceforge.net/projects/broeselhud/]*</font>
 
