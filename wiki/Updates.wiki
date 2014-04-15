@@ -33,7 +33,7 @@
 
 	- adjusted positioning of the marked for death and milk icons
 
-	- fixed "[unknown]" being displayed in the inspect panel
+	- fixed "\[unknown\]" being displayed in the inspect panel
 
 	- added Heavy knockback rage and Medic energy shield meters
 
@@ -212,14 +212,14 @@
 	- changed the HP alignment on the oldschool targetID to left
 
 	- decreased the shadow offset on the following elements:
-		* last damage done
-		* sticky count
-		* TargetID HP numbers
+* last damage done
+* sticky count
+* TargetID HP numbers
 
 	- increased the team name boundaries on the following elements (fix for ESEA players):
-		* tournament setup panel
-		* winpanel
-		* scoreboard
+* tournament setup panel
+* winpanel
+* scoreboard
 
 	- updated Clientscheme.res
 
@@ -265,7 +265,7 @@
 
 	- fixed the "don't show last damage done" - option
 
-	- fixed the positive damage (used to indicate heals) not using the correct color name
+	- fixed heal numbers not using the correct color name
 
 ==20/04/2012 - Version 2.1.4==
 
@@ -392,7 +392,7 @@
 	- added a 32 player scoreboard
 
 	- completely rebuilt the classmenu with the new file structure
-	
+
 ==04/09/2011 - Version 1.7.1==
 
 	- updated clientscheme.res
@@ -472,13 +472,13 @@
 ==07/02/2011 - Version 1.6==
 
 	- fixed the timer being displayed incorrectly
-	
+
 	- fixed the font on the class menu not being opaque
 
 	- made the CP icons a tad bigger
 
 	- added a custom menu
-	
+
 	- updated the Clientscheme file 
 
 ==19/12/2010 - Version 1.5==
@@ -502,7 +502,7 @@
 	- made the Engie HUD more compact (and thus fixed overlapping with achievements)
 
 	- the Demo head counter is now aligned from the center, it should now be in a better position on widescreen resolutions
-		- same with the Engie revenge crits
+	- same with the Engie revenge crits
 
 	- changed the Arena player count
 
@@ -530,7 +530,7 @@
 
 	- added a milk drop icon when you're milked
 
-	- removed the annoying, green +`[hp`] display (still available as an option)
+	- removed the notification when picking up a medpack/sandvich
 
 	- reworked the stat summary panels
 
@@ -567,25 +567,23 @@
 	- removed the tips from the stats panel & loading screen stats panel
 
 ==10/09/2010 - Version 1.2==
-OBJECTIVES:
+
 	- made the CP HUD smaller (it's now ~ as big as the minmode CP HUD from the default HUD)
  
-	- made the ctf HUD smaller and colored the scores
+	- made the CTF HUD smaller and colored the scores
  
 	- made the PLR carts smaller - now for real ;D (messed it up in the last update)
  
 	- added proper support for PL tracks with hills (taller track in the HUD)
 
 	- made the round timer smaller - its size is now ~ between the too big old one and m0re's too small one
-HP/DAMAGE/AMMO DISPLAYS:
+
 	- m0re's minmode HP display is now default and the colored one is the option
 
 	- damage numbers now are font size 23 (was 26)
  
-	- DISABLED (not deleted!) the low-ammo flash
-        
-		-(if you really want it back uncomment the lowAmmoPulse section in scripts/HudAnimations_tf.txt)
-MENUS:
+	- disabled the low-ammo flash per default
+
 	- removed the floating model from the class menu
 
 	- class menu is now more compact
@@ -597,36 +595,32 @@ MENUS:
 	- redesigned the (simple) disguise menu
  
 	- fixed the simple disguise menu
-SCOREBOARD:
+
 	- made the pub scoreboard smaller (vertically)
  
 	- rearranged the 6v6 scoreboard to match m0re's layout
  
 	- changed the font of the scoreboard player list to surface
-LAYOUT CHANGES:
+
 	- increased the gap between the 2 meters when using either Huntsman + Jarate as Sniper or Bonk + Sandman as Scout
-SMALLER, OTHER CHANGES / BUGFIXES:
+
 	- fixed the KOTH timer
 
 	- made the Medic charge in the Tournament Spec HUD better legible
-FONT CHANGES:
+
 	- changed the koth/arena countdown font to Surface
  
-	- changed the default font to surface
-        
-		- voicemenus, ammomod arena selection, mapvote menus etc. all appear with surface medium now
+	- changed the "default" font style to Surface
+
 ==04/08/2010 - Version 1.1==
-HP DISPLAY:
 
 	- added an option for a minmode HP display like in m0rehud
 
 	- changed the warning treshold on colored minmode HP display to 0.48
 
 	- changed the warning red in minmode to a slighty less saturated one
-	
-	- fixed the HP in minmode being grey after a buff
 
-FONT CHANGES:
+	- fixed the HP in minmode being grey after a buff
 
 	- fixed the description text on Stopwatch being cut off
 
@@ -634,10 +628,8 @@ FONT CHANGES:
 
 	- made the "last damage done" indicator yellow aswell
 
-OTHER CHANGES:
-
 	- edited the Stalemate panel to fit the general style
-	
+
 	- made the space between death notices slighty smaller
 
 	- increased the maximum deathnotice count to 9
